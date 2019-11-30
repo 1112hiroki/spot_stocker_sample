@@ -1,5 +1,9 @@
 {
   "name": "spot_stocker",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "@rails/actiontext": "^6.0.1",
+    "rails-ujs": "^5.2.4",
+    "trix": "^1.0.0"
+  }
 }
